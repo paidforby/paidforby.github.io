@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>paidforby_____</title><link>https://paidforby.github.io//index.html</link>
+<description>art, code, life, etc.</description><language>en</language>
+<lastBuildDate>Mon, 18 Dec 2017 23:59:30 -0500</lastBuildDate>
+<pubDate>Mon, 18 Dec 2017 23:59:30 -0500</pubDate>
+<atom:link href="https://paidforby.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Twelve Days of SSB
+</title><description><![CDATA[
+
+<p>As I prepared to leave the bay and head home for the holidays, I was confronted with the ultimate packing problem: Which is more likely to be refused by TSA? One jelly jar of beard oil, two #disaster-radio prototypes, three #peoplesopen nodes, or a patchwork in a merkle tree? </p>
+
+<hr />
+]]></description><link>https://paidforby.github.io//the-twelve-days-of-ssb.html</link>
+<guid>https://paidforby.github.io//./the-twelve-days-of-ssb.html</guid>
+<dc:creator>grant_____</dc:creator>
+<pubDate>Mon, 18 Dec 2017 23:29:34 -0500</pubDate></item>
+</channel></rss>
