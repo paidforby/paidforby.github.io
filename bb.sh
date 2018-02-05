@@ -27,14 +27,14 @@ global_variables() {
     global_url="https://paidforby.github.io/"
 
     # Your name
-    global_author="grant_____"
+    global_author="paidforby"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="https://paidforby.github.io/" 
+    global_author_url="https://github.com/paidforby" 
     # Your email
     global_email="grant@peoplesopen.net"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
-    global_license="CC BY-SA-4.0"
+    global_license="<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA-4.0</a>"
 
     # If you have a Google Analytics ID (UA-XXXXX) and wish to use the standard
     # embedding code, put it on global_analytics
